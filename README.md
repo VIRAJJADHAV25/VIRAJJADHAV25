@@ -54,7 +54,7 @@ Stay tuned!
 
 ## 🛠 Tech Stack
 
-<!-- <p align="center"> -->
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 &nbsp;&nbsp;
@@ -68,7 +68,7 @@ Stay tuned!
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 
-<!-- </p> -->
+</p>
 
 ---
 
@@ -85,8 +85,11 @@ Stay tuned!
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=tokyonight&utcOffset=5.5"/> 
 </p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+</p>
+
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"/>
 </p>
 
