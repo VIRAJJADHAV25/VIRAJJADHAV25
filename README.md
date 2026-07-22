@@ -54,7 +54,7 @@ Stay tuned!
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 &nbsp;&nbsp;
@@ -68,7 +68,7 @@ Stay tuned!
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 
-</p>
+<!-- </p> -->
 
 ---
 
