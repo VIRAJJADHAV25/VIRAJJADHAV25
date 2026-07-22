@@ -75,6 +75,11 @@ Stay tuned!
 ## 📊 GitHub Summary
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/VIRAJJADHAV25/VIRAJJADHAV25/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+
+<p align="center">
   <img src="https://ghchart.rshah.org/40c463/VIRAJJADHAV25" alt="GitHub Contribution Chart"/>
 </p>
 
