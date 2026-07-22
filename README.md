@@ -1,6 +1,8 @@
 # <div align="center">Hi 👋, I'm Viraj Jadhav</div>
 
-### <div align="center">Second Year B.Tech IT Student | Java & Spring Boot Learner</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 <div align="center">
 
@@ -22,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=VIRAJJADHAV25&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 
 </div>
 
@@ -80,27 +82,35 @@ Stay tuned!
     alt="GitHub Contribution Chart"
     width="98.5%"
   />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=github_dark"
+    alt="Profile details"
+    width="98.5%"
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=github_dark"
     width="49%"
     alt="Repos per Language"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"
-    width="49.05%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=github_dark"
+    width="49%"
     alt="Most Commit Language"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=tokyonight"
-    width="98.5%"
-    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIRAJJADHAV25&theme=github_dark"
+    width="49%"
+    alt="Stats"
   />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=github_dark&utcOffset=0"
+    width="49%"
+    alt="Commit (UTC +5.30)"
 </p>
 
 ---
