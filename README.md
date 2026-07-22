@@ -90,7 +90,7 @@ Stay tuned!
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"
-    width="49%"
+    width="49.05%"
     alt="Most Commit Language"
   />
 </p>
