@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding GIF"/>
+<img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding GIF"/>
 
 <br><br>
 
@@ -72,21 +72,29 @@ Stay tuned!
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Summary
 
-<div align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/VIRAJJADHAV25" alt="GitHub Contribution Chart"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VIRAJJADHAV25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<!--
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIRAJJADHAV25&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=tokyonight&utcOffset=5.5"/> 
+</p> -->
 
-<br><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=VIRAJJADHAV25&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+</p>
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIRAJJADHAV25&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
 
 ---
 
