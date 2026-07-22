@@ -73,10 +73,10 @@ Stay tuned!
 ---
 
 ## 📊 GitHub Summary
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/VIRAJJADHAV25/VIRAJJADHAV25/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
+</p> -->
 
 
 <p align="center">
@@ -91,12 +91,12 @@ Stay tuned!
 </p> -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=tokyonight"/>
 </p>
 
 
