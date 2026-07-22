@@ -84,13 +84,14 @@ Stay tuned!
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=tokyonight&utcOffset=5.5"/> 
 </p> -->
-
+<p align="centre">
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=tokyonight"/>
 </p>
 
 <p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=tokyonight"/>
+</p>
 </p>
 
 <p align="center">
