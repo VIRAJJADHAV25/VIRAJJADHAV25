@@ -77,25 +77,21 @@ Stay tuned!
 ## 📊 GitHub Summary
 
 <p align="center">
-  <!-- <img
-    src="https://ghchart.rshah.org/40c463/VIRAJJADHAV25"
-    alt="GitHub Contribution Chart"
-    width="98.5%"
-  /> -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=github_dark"
-    alt="Profile details"
+    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/profile-details?username=VIRAJJADHAV25&theme=github_dark"
+    alt="Profile Details"
     width="98.5%"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=github_dark"
+    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV25&theme=github_dark"
     width="49%"
     alt="Repos per Language"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=github_dark"
+    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV25&theme=github_dark"
     width="49%"
     alt="Most Commit Language"
   />
@@ -103,15 +99,15 @@ Stay tuned!
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIRAJJADHAV25&theme=github_dark"
+    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/stats?username=VIRAJJADHAV25&theme=github_dark"
     width="49%"
     alt="Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=github_dark&utcOffset=0"
+    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/productive-time?username=VIRAJJADHAV25&theme=github_dark&utcOffset=5.5"
     width="49%"
-    alt="Commit (UTC +5.30)"
-    />
+    alt="Productive Time (UTC +5:30)"
+  />
 </p>
 
 ---
